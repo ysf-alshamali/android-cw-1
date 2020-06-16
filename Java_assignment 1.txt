@@ -1,0 +1,17 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+         int x = 4;
+         int y = 10;
+         int w = x + y;
+         int z = x * y;
+         boolean a = z > w;
+         
+         System.out.println(x);
+         System.out.println(y);
+         System.out.println(w);
+         System.out.println(z);
+         System.out.println(a);
+    
+     }
+}
